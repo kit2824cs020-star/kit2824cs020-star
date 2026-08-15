@@ -99,7 +99,7 @@ philosophy: "Turning ideas into code and building intelligent solutions for real
 
 <td width="50%" valign="top">
 
-### 🎬 <a href="YOUR_MOVIE_PROJECT_LINK">Hybrid Movie Recommendation System</a>
+### 🎬 <a href="https://github.com/kit2824cs020-star/hybrid-recommendation-system">Hybrid Movie Recommendation System</a>
 
 **Machine Learning Recommendation System**
 
