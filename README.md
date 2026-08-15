@@ -74,54 +74,89 @@ philosophy: "Turning ideas into code and building intelligent solutions for real
 
 ## 🚀 Featured Projects
 
-### 💰 Personal Finance Tracking System
+<table>
+<tr>
 
-> A full-stack web application for managing personal finances, including income, expenses, savings and investments.
+<td width="50%" valign="top">
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+### 💰 <a href="YOUR_FINANCE_PROJECT_LINK">Personal Finance Tracking System</a>
 
-**Key Features:**
-- 📊 Financial dashboard and visualization
-- 💰 Income and expense tracking
-- 📈 Savings and investment monitoring
+**Full-Stack Finance Management Application**
+
+- 💰 Track income, expenses & savings
+- 📊 Financial dashboard & reports
+- 📈 Monitor investments
 - 🔐 User authentication
-- 📋 Financial reports
 
-🔗 **Repository:** [View Project](YOUR_GITHUB_REPOSITORY_LINK)
+**Tech Stack**
 
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
----
+</td>
 
-### 🎬 Hybrid Movie Recommendation System
+<td width="50%" valign="top">
 
-> A machine learning based recommendation system that provides personalized movie recommendations.
+### 🎬 <a href="YOUR_MOVIE_PROJECT_LINK">Hybrid Movie Recommendation System</a>
 
-**Tech Stack:** Python • Machine Learning • Pandas • Scikit-learn
+**Machine Learning Recommendation System**
 
-**Techniques:**
-- 🤝 Collaborative Filtering
-- 🎯 K-Means Clustering
-- 📉 PCA
-- 🎬 MovieLens Dataset
+- 🎯 Personalized movie recommendations
+- 🤝 Collaborative filtering
+- 📊 K-Means clustering
+- 📉 PCA embeddings
+- 🎬 MovieLens dataset
 
-🔗 **Repository:** [View Project](YOUR_GITHUB_REPOSITORY_LINK)
+**Tech Stack**
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
----
+</td>
 
-### 🔐 Secure File Vault with Zero-Knowledge Sharing
+</tr>
 
-> A secure file storage and sharing system designed to protect sensitive files using client-side encryption and secure sharing mechanisms.
+<tr>
 
-**Tech Stack:** React • Spring Boot • PostgreSQL • AES-256-GCM • Spring Security
+<td width="50%" valign="top">
 
-**Key Features:**
-- 🔒 File encryption
-- 🛡️ Integrity verification
+### 🔐 <a href="YOUR_SECURE_FILE_PROJECT_LINK">Secure File Vault</a>
+
+**Zero-Knowledge Secure File Sharing System**
+
+- 🔒 Client-side file encryption
+- 🛡️ SHA-256 integrity verification
 - 📋 Audit logging
 - 🔐 Secure file sharing
+- 🚫 Server designed without access to decryption keys
 
-🔗 **Repository:** [View Project](YOUR_GITHUB_REPOSITORY_LINK)
+**Tech Stack**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AES--256--GCM-6A1B9A?style=flat-square"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 More Projects Coming Soon...
+
+**Currently building and learning 🚀**
+
+- 🤖 Exploring AI & Machine Learning
+- 🌐 Building Full-Stack applications
+- 💻 Practicing Data Structures & Algorithms
+- 🔐 Exploring Cybersecurity
+
+</td>
+
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
