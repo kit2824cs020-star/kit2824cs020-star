@@ -12,43 +12,27 @@
 
 </div>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&text=" width="100%" /> </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
+<div align="center">
+  
+## 🌟 About Me
 
-## 👨‍💻 About Me
+</div>
 
-    const belcia = {
-    education: "Computer Science Engineering Student",
-    cgpa: "8.34 / 10",
-    
-    currentRole: "Google Gemini Student Ambassador 2026",
-    
-    interests: [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Competitive Programming"
-    ],
+```yaml
+name: Belcia M
+located_in: Tamil Nadu, India
+education: Computer Science & Engineering @ KIT - Kalaignarkarunanidhi Institute of Technology (2023-2027)
 
-    technologies: {
-        languages: ["Java", "Python", "C++", "C", "JavaScript"],
-        frontend: ["HTML", "CSS", "React.js"],
-        backend: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "MySQL", "Oracle"],
-        dataScience: ["NumPy", "Pandas", "Matplotlib", "Streamlit"],
-        tools: ["Git", "GitHub", "VS Code"]
-    },
+current_focus: ["Full-Stack Development", "Artificial Intelligence & Machine Learning", "Data Science"]
 
-    currentlyLearning: [
-        "Advanced Java",
-        "MERN Stack",
-        "Machine Learning"
-    ],
+interests: ["Generative AI", "Machine Learning", "Competitive Programming", "Intelligent Systems"]
 
-    funFact: "I turn ideas into projects and problems into code! 🚀"
-    };
-
+philosophy: "Turning ideas into code and building intelligent solutions for real-world problems"
+```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🛠️ Skills & Technologies
 
@@ -85,7 +69,7 @@
 </p>
 
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🏆 Achievements
 
@@ -98,7 +82,7 @@
 - ⭐ **CodeChef:** 1,060+ problems solved
 
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📜 Certifications & Courses
 
@@ -116,7 +100,7 @@
 
 📂 **[View All Certifications](YOUR_CERTIFICATES_REPOSITORY_LINK)**
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📊 GitHub Statistics
 
@@ -130,7 +114,7 @@
   <img src="https://streak-stats.demolab.com?user=kit2824cs020-star&theme=tokyonight&hide_border=true" />
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ## 💻 Competitive Programming
 
 <table>
@@ -168,7 +152,7 @@
 </table>
 
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
 ## 🤝 Connect With Me
@@ -208,7 +192,6 @@
 </table>
 
 </div>
----
 
 <p align="center">
   💜 <b>Thanks for visiting my profile! Let's build something amazing together.</b> 🚀
