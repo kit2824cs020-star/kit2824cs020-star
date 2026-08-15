@@ -71,6 +71,61 @@ philosophy: "Turning ideas into code and building intelligent solutions for real
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+
+## 🚀 Featured Projects
+
+### 💰 Personal Finance Tracking System
+
+> A full-stack web application for managing personal finances, including income, expenses, savings and investments.
+
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+
+**Key Features:**
+- 📊 Financial dashboard and visualization
+- 💰 Income and expense tracking
+- 📈 Savings and investment monitoring
+- 🔐 User authentication
+- 📋 Financial reports
+
+🔗 **Repository:** [View Project](YOUR_GITHUB_REPOSITORY_LINK)
+
+
+---
+
+### 🎬 Hybrid Movie Recommendation System
+
+> A machine learning based recommendation system that provides personalized movie recommendations.
+
+**Tech Stack:** Python • Machine Learning • Pandas • Scikit-learn
+
+**Techniques:**
+- 🤝 Collaborative Filtering
+- 🎯 K-Means Clustering
+- 📉 PCA
+- 🎬 MovieLens Dataset
+
+🔗 **Repository:** [View Project](YOUR_GITHUB_REPOSITORY_LINK)
+
+
+---
+
+### 🔐 Secure File Vault with Zero-Knowledge Sharing
+
+> A secure file storage and sharing system designed to protect sensitive files using client-side encryption and secure sharing mechanisms.
+
+**Tech Stack:** React • Spring Boot • PostgreSQL • AES-256-GCM • Spring Security
+
+**Key Features:**
+- 🔒 File encryption
+- 🛡️ Integrity verification
+- 📋 Audit logging
+- 🔐 Secure file sharing
+
+🔗 **Repository:** [View Project](YOUR_GITHUB_REPOSITORY_LINK)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
 ## 🏆 Achievements
 
 - 🌟 Selected as **Google Gemini Student Ambassador 2026**
@@ -201,6 +256,5 @@ philosophy: "Turning ideas into code and building intelligent solutions for real
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
-
 
 
